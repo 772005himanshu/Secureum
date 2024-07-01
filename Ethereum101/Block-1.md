@@ -33,3 +33,10 @@
    - Bitcoin UTX0 Transfer -> Transition
    - Ethereum Blockchain General-purpose State
    - Ethereum Account/balance State -> Transition
+
+## [6] Core Components
+   - P2P Network TCP Pork 30303: DEVp2p
+   - Transaction: sender,recipient,value,data
+   - State Machine -> EVM (HLL(solidity) -> bytecode)
+   - Data Structure -> Merkle Patricia Tree
+
