@@ -40,3 +40,9 @@
    - State Machine -> EVM (HLL(solidity) -> bytecode)
    - Data Structure -> Merkle Patricia Tree
 
+## [7] More Core Components
+   - Consensus Algorithm Nakamoto -> POW
+   - POW -> POS (Ethereum 2.0 or severity)
+   - Economic Security POW -> EthHash
+   - Clients: Geth,Erigon,NetherMind OpenEthereum
+
