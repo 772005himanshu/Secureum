@@ -46,3 +46,9 @@
    - Economic Security POW -> EthHash
    - Clients: Geth,Erigon,NetherMind OpenEthereum
 
+## [8] Halting Problem 
+   - Turing complete -> Halting problem 
+   - Arbitrary Program/Input Predict -> stop?
+   - Smart Contracts Predict -> How long ? stop?
+   - Constrain Resources Metering -> gas
+
